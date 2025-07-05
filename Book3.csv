@@ -1,0 +1,31 @@
+Intent Name,Example User Queries,Response
+User Registration,"""How do I register for the auction?""","""To register for the auction, you need to create an account. Just click on the 'Sign Up' button at the top of the page..."""
+,"""Can you help me create an account?""",
+Browse Auction Items,"""What items are available for auction?""","""Here are some of the current items available for auction. You can filter by category or price range. Let me know..."""
+,"""Can I see the latest bids?""",
+Search for Items,"""Find paintings for auction.""","""I can help you search for [your item type]. Give me a moment while I find the best options!"""
+,"""Do you have any cars on auction?""",
+Bid on Item,"""I want to bid on item 123.""","""You?re about to bid $500 on item [item name]. Do you want to confirm this bid?"""
+,"""Place a bid of $500 on this painting.""",
+Auction Rules & Guidelines,"""What are the rules for bidding?""","""In our auctions, you can place bids up until the auction ends. You can place a maximum bid, and we?ll automatically..."""
+,"""How does the auction work?""",
+Auction Status,"""When does the auction end?""","""The current highest bid for [item] is $[amount]. The auction will close in [time left]."""
+,"""What is the current highest bid?""",
+Winning Auction,"""Did I win the auction for item 123?""","""You won the auction for item [item name] with a bid of $[amount]. Congratulations!"""
+,"""Was my bid accepted?""",
+Payment Process,"""How do I pay for the items I won?""","""To complete your purchase, please follow the payment instructions sent to your email. We accept [list of payment methods]."""
+,"""What payment methods do you accept?""",
+Auction Cancellation or Refund,"""Can I cancel my bid?""","""If you need to cancel a bid, please let me know the item number, and I?ll assist you. Refunds are available only..."""
+,"""How do I get a refund?""",
+Auction Reminder,"""Remind me when the auction ends.""","""I?ll send you a notification when the auction for your item is about to close. Want me to set one for you now?"""
+,"""Notify me when someone outbids me.""",
+Auction History,"""Can I see my previous bids?""","""Here?s your auction history: [List of previous items, bids, and wins]. Would you like to check any details?"""
+,"""What items have I won in the past?""",
+Help with Auction Issues,"""I need help with my auction account.""","""I'm here to help! Could you please describe the issue you're facing with your auction account?"""
+,"""Why can?t I place a bid?""",
+Item Description and Details,"""Tell me more about item 123.""","""Item [item number] is a [item description]. It is in [condition] and has [any special features]. Would you like to bid?"""
+,"""What condition is this item in?""",
+Account Information,"""How do I update my account details?""","""You can update your account details by going to the 'Account Settings' page. What would you like to change?"""
+,"""Can I change my password?""",
+Closing of Auction,"""When does the auction end for item 789?""","""The auction for [item name] has now closed. The winner?s bid was $[amount]. Congratulations to the winner!"""
+,"""How can I see who won the auction?""",
